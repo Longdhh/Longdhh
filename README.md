@@ -5,7 +5,7 @@ My name is Do Huu Hai Long. I am a graduated master's student from National Form
 
 - A graduate master student major in Information Management
 - Currently self taught AI and data science related topics
-- I’m currently open for a new job opportunity especially in AI industry, this is [my resume](https://pda.104.com.tw/profile/share/gx2YMzDFHJFhggGa1jvQJo1rrCkAjsAF)
+- I’m currently open for a new job opportunity especially in AI industry, this is [my resume](https://pda.104.com.tw/profile/share/gx2YMzDFHJFhggGa1jvQJo1rrCkAjsAF) (THE RESUME IS IN TRADITIONAL CHINESE)
 
 ### 📫 How to reach me ?
 
