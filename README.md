@@ -18,7 +18,7 @@ My name is Do Huu Hai Long. I am a graduated master's student from National Form
 ## 📚Repositories
 <a href="https://github.com/Longdhh/FootballAnalyticSystem">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Longdhh&repo=FootballAnalyticSystem&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Longdhh&repo=FootballAnalyticSystem&theme=synthwave" />
 </a>    
 <a href="https://github.com/Longdhh/ASCIIArtGenerator">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
@@ -26,8 +26,9 @@ My name is Do Huu Hai Long. I am a graduated master's student from National Form
 </a>
 <a href="https://github.com/Longdhh/CodeForcesSolves">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Longdhh&repo=CodeForcesSolves" />
-</a> 
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Longdhh&repo=CodeForcesSolves&theme=cobalt" />
+</a>
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
 <p align="center">
