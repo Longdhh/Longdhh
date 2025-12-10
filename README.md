@@ -18,11 +18,11 @@ My name is Do Huu Hai Long. I am a graduated master's student from National Form
 ## 📚Repositories
 <a href="https://github.com/Longdhh/FootballAnalyticSystem">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Longdhh&repo=FootballAnalyticSystem&theme=synthwave" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Longdhh&repo=FootballAnalyticSystem&theme=synthwave" />
 </a>    
 <a href="https://github.com/Longdhh/ASCIIArtGenerator">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Longdhh&repo=ASCIIArtGenerator&theme=merko" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Longdhh&repo=ASCIIArtGenerator&theme=merko" />
 </a>
 <a href="https://github.com/Longdhh/CodeForcesSolves">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
