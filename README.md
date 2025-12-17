@@ -18,7 +18,7 @@ My name is Do Huu Hai Long. I am a graduated master's student from National Form
 ## 📚Repositories
 <a href="https://github.com/Longdhh/TennisAnalytics">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Longdhh&repo=FootballAnalyticSystem&theme=synthwave" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Longdhh&repo=TennisAnalytics&theme=synthwave" />
 </a>  
 <a href="https://github.com/Longdhh/FootballAnalyticSystem">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
