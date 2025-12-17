@@ -16,9 +16,13 @@ My name is Do Huu Hai Long. I am a graduated master's student from National Form
 &ensp;[<img width="14" height="14" alt="Facebook_Logo_2023" src="https://github.com/user-attachments/assets/555c0b61-7d4d-4e90-bc09-fc97c0dfbd70" /> Facebook](https://www.facebook.com/longdo2209/)
 
 ## 📚Repositories
-<a href="https://github.com/Longdhh/FootballAnalyticSystem">
+<a href="https://github.com/Longdhh/TennisAnalytics">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Longdhh&repo=FootballAnalyticSystem&theme=synthwave" />
+</a>  
+<a href="https://github.com/Longdhh/FootballAnalyticSystem">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Longdhh&repo=FootballAnalyticSystem&theme=tokyonight" />
 </a>    
 <a href="https://github.com/Longdhh/ASCIIArtGenerator">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
