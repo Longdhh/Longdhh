@@ -1,11 +1,10 @@
 ### 👋 Welcome to my page 
-My name is Do Huu Hai Long. I am a graduated master's student from National Formosa University in Taiwan with a major in Information Management. I am currently seeking job opportunities in the AI and software industry in Taipei. To make it happen, I am currently investing my time heavily in learning Deep Learning for Computer Vision, Deep Learning for Time-series Forecasting, LLM and Reinforcement Learning.
+My name is Do Huu Hai Long. I am a graduated master's student from National Formosa University in Taiwan with a major in Information Management. I am currently working as an R&D Engineer, specialized in integrate 2D/3D computer vision AI models into robots at QuadRep Electronics Taiwan Ltd. 
 
 ### 😃 About me ###
 
+- Working at QuadRep Electronics Taiwan Ltd as an R&D Engineer, specialized in 2D/3D computer vision.
 - A graduate master student major in Information Management
-- Currently self taught AI and data science related topics
-- I’m currently open for a new job opportunity especially in AI industry, this is [my resume](https://pda.104.com.tw/profile/share/jLkpGqC057bRLskZjVZHtK8r6rhTK9bz) (THE RESUME IS IN TRADITIONAL CHINESE)
 
 ### 📫 How to reach me ?
 
