@@ -1,10 +1,10 @@
 ### 👋 Welcome to my page 
-My name is Do Huu Hai Long. I am a graduated master's student from National Formosa University in Taiwan with a major in Information Management. I am currently working as an R&D Engineer, specialized in integrate 2D/3D computer vision AI models into robots at QuadRep Electronics Taiwan Ltd. 
+My name is Do Huu Hai Long. I am currently working as an R&D Engineer, specialized in integrate 2D/3D computer vision AI models into robots at QuadRep Electronics Taiwan Ltd. Before working, I am a postgraduate student at National Formosa University in Taiwan with a major in Information Management. 
 
 ### 😃 About me ###
 
 - Working at QuadRep Electronics Taiwan Ltd as an R&D Engineer, specialized in 2D/3D computer vision.
-- A graduate master student major in Information Management
+- A master major in Information Management
 
 ### 📫 How to reach me ?
 
